@@ -34,7 +34,7 @@ Germany is divided into a number of states, each of which have their own governm
 @weimar_timeline
 go-to: menu
 
-= Timeline of the SPD and the Republic (until 1928)
+= Timeline of the Republic (until 1928)
 
 **1875**: The SPD is formed as a merger of the General German Workers' Association, founded by Ferdinand Lassalle, and the Social Democratic Workers' Party of Germany, led by Wilhelm Liebknecht and August Bebel. Eventually, the SPD grows to become the largest party in the German Empire.
 
@@ -59,6 +59,10 @@ go-to: menu
 **1925**:  President Friedrich Ebert dies, and new presidential elections are held, leading to the narrow election of Paul von Hindenburg in the second round. Hindenburg is a war hero and a right-wing reactionary. The SPD adopts the Heidelberg Program as its party platform. 
 
 **1926**: A referendum on the expropriation of the princes, supported by the SPD and KPD, fails.
+
+= Timeline of the DNVP (until 1928)
+
+**1875**: The SPD is formed as a merger of the General German Workers' Association, founded by Ferdinand Lassalle, and the Social Democratic Workers' Party of Germany, led by Wilhelm Liebknecht and August Bebel. Eventually, the SPD grows to become the largest party in the German Empire.
 
 @curr_gov
 go-to: cabinet if spd_in_government; menu if not spd_in_government
