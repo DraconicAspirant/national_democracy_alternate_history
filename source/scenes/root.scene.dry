@@ -6,7 +6,7 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= Social Democracy: An Alternate History
+= National Democracy: An Alternate History
 
 @start_menu_2
 
@@ -46,7 +46,7 @@ Q.dissent = 0.05;
 Q.dissent_percent = 5;
 
 // factions
-Q.factions = ['left', 'center', 'labor', 'reformist', 'neorevisionist'];
+Q.factions = ['right', 'agrarian', 'young-conservative', 'christian-social', 'paramilitary'];
 // should this be normalized to 100%?
 Q.left_strength = 15;
 Q.left_dissent = 20;
